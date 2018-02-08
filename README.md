@@ -1,5 +1,5 @@
 ## Titanic Survival Exploration
-This analysis of the passenger survival data from the Titanic exceeds 83% accuracy on the test dataset. The final model uses Gender, socioeconomic class, presence of immediate family and age. 
+This analysis of the passenger survival data from the Titanic exceeds 83% accuracy on the test dataset. The final model uses Gender, socioeconomic class, presence of immediate family and age. The analysis is performed by hand with a structure similar to a small decision tree.
 
 ### Prerequisistes
 [Python 2.7](https://www.python.org/)
@@ -15,4 +15,3 @@ In a terminal or command window, navigate to the top-level project directory `ti
 jupyter notebook titanic_survival_exploration.ipynb
 ```
 This will open the Jupyter Notebook software and project file in your web browser.
-
